@@ -1,0 +1,17 @@
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\bin\Debug\net6.0\Customer.Domain.deps.json
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\bin\Debug\net6.0\Customer.Domain.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\bin\Debug\net6.0\Customer.Domain.pdb
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\obj\Debug\net6.0\Customer.Domain.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\obj\Debug\net6.0\Customer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\obj\Debug\net6.0\Customer.Domain.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\obj\Debug\net6.0\Customer.Domain.AssemblyInfo.cs
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\obj\Debug\net6.0\Customer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\obj\Debug\net6.0\Customer.Domain.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\obj\Debug\net6.0\refint\Customer.Domain.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\obj\Debug\net6.0\Customer.Domain.pdb
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\obj\Debug\net6.0\ref\Customer.Domain.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\bin\Debug\net6.0\Customer.Domain.Models.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\bin\Debug\net6.0\Customer.Infrastructure.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\bin\Debug\net6.0\Customer.Domain.Models.pdb
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\bin\Debug\net6.0\Customer.Infrastructure.pdb
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain\obj\Debug\net6.0\Customer.Domain.csproj.CopyComplete

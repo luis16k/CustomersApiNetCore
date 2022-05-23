@@ -1,0 +1,6 @@
+{
+  "Customer.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Luis\\source\\repos\\CustomerApi\\CustomerApi",
+  "Customer.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Luis\\source\\repos\\CustomerApi\\Customer.Domain",
+  "Customer.Domain.Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Luis\\source\\repos\\CustomerApi\\Customer.Domain.Models",
+  "Customer.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\Luis\\source\\repos\\CustomerApi\\Customer.Infrastructure"
+}

@@ -1,0 +1,15 @@
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\bin\Debug\net6.0\Customer.Infrastructure.deps.json
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\bin\Debug\net6.0\Customer.Infrastructure.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\bin\Debug\net6.0\Customer.Infrastructure.pdb
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\obj\Debug\net6.0\Customer.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\obj\Debug\net6.0\Customer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\obj\Debug\net6.0\Customer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\obj\Debug\net6.0\Customer.Infrastructure.AssemblyInfo.cs
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\obj\Debug\net6.0\Customer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\obj\Debug\net6.0\Customer.Infrastructure.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\obj\Debug\net6.0\refint\Customer.Infrastructure.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\obj\Debug\net6.0\Customer.Infrastructure.pdb
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\obj\Debug\net6.0\ref\Customer.Infrastructure.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\obj\Debug\net6.0\Customer.Infrastructure.csproj.CopyComplete
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\bin\Debug\net6.0\Customer.Domain.Models.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Infrastructure\bin\Debug\net6.0\Customer.Domain.Models.pdb

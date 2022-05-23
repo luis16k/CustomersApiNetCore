@@ -1,0 +1,12 @@
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\bin\Debug\net6.0\Customer.Domain.Models.deps.json
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\bin\Debug\net6.0\Customer.Domain.Models.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\bin\Debug\net6.0\Customer.Domain.Models.pdb
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\obj\Debug\net6.0\Customer.Domain.Models.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\obj\Debug\net6.0\Customer.Domain.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\obj\Debug\net6.0\Customer.Domain.Models.AssemblyInfoInputs.cache
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\obj\Debug\net6.0\Customer.Domain.Models.AssemblyInfo.cs
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\obj\Debug\net6.0\Customer.Domain.Models.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\obj\Debug\net6.0\Customer.Domain.Models.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\obj\Debug\net6.0\refint\Customer.Domain.Models.dll
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\obj\Debug\net6.0\Customer.Domain.Models.pdb
+C:\Users\Luis\source\repos\CustomerApi\Customer.Domain.Models\obj\Debug\net6.0\ref\Customer.Domain.Models.dll
